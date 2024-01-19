@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/your-username/public_html/goa.callgirlsinlucknow.in
+    - export DEPLOYPATH=/home/arooteaj/public_html/goa.callgirlsinlucknow.in
     - /bin/cp -R * $DEPLOYPATH
     - /bin/find $DEPLOYPATH -type d -name .git -exec rm -rf {} \;  # Remove .git directories
     - /bin/find $DEPLOYPATH -type f -name .gitignore -exec rm -f {} \;  # Remove .gitignore files
