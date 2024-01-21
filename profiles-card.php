@@ -1,6 +1,6 @@
 <?php
 
-$cdn_url = 'cdn.callgirlsinlucknow.in/';
+$cdn_url = 'https://cdn.callgirlsinlucknow.in/';
 
 $phone_number = '';
 
