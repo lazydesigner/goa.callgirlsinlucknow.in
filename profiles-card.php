@@ -4,7 +4,7 @@ $cdn_url = 'https://cdn.callgirlsinlucknow.in/';
 
 $phone_number = '';
 
-$noindex = '<meta name="robots" content="noindex, nofollow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+$noindex = '<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
     <link rel="icon" href="'.$cdn_url.'goa-profiles/favicon.ico" type="image/x-icon" />
     <link rel="icon" type="image/png" sizes="32x32" href="'.$cdn_url.'goa-profiles/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="'.$cdn_url.'goa-profiles/favicon-16x16.png">
