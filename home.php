@@ -7,8 +7,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?=$noindex?>
-    <link rel="stylesheet" href="./assets/css/header.css">
-    <link rel="stylesheet" href="./assets/css/home.css">
+    <link rel="preconnect" href="<?=$cdn_url ?>" crossorigin>
+    <link rel="stylesheet" href="./assets/css/header.css" async>
+    <link rel="stylesheet" href="./assets/css/home.css" async>
     <link rel="stylesheet" href="./assets/css/footer.css" defer>
     <title>9548086524 | Goa Escorts Service @Rs.3500 -Call Girls in Goa</title>
     <meta name="description" content="We deliver call girls in Goa within 40 minutes. Raman Goa Escorts Service provide genuine girls within your budget and deals in Cash payment.">
@@ -55,7 +56,7 @@
                                 <div class="category-detail">
                                     <strong>College Girl</strong>
                                     <p>Several physically fit college escorts ensure every encounter is memorable and fulfilling.</p>
-                                    <button aria-label="Call Now To Book Your Lovely Goa Escorts">View More</button>
+                                    <button aria-label="Submit Form">View More</button>
                                 </div>
                             </div>
                         </div>
@@ -69,7 +70,7 @@
                                 <div class="category-detail">
                                     <strong>Russian</strong>
                                     <p>Russian Escorts excel in delivering unparalled satisfaction.</p>
-                                    <button aria-label="Call Now To Book Your Lovely Goa Escorts">View More</button>
+                                    <button aria-label="Submit Form">View More</button>
                                 </div>
                             </div>
                         </div>
@@ -85,7 +86,7 @@
                                 <div class="category-detail">
                                     <strong>Housewife</strong>
                                     <p>If you are seeking housewife escorts, look no further.</p>
-                                    <button aria-label="Call Now To Book Your Lovely Goa Escorts">View More</button>
+                                    <button aria-label="Submit Form">View More</button>
                                 </div>
                             </div>
                         </div>
@@ -99,7 +100,7 @@
                                 <div class="category-detail">
                                     <strong>Celebrity</strong>
                                     <p>Are you looking to leave a lasting impression at a social event with celebrity escorts?</p>
-                                    <button aria-label="Call Now To Book Your Lovely Goa Escorts">View More</button>
+                                    <button aria-label="Submit Form">View More</button>
                                 </div>
                             </div>
                         </div>
@@ -115,7 +116,7 @@
                                 <div class="category-detail">
                                     <strong>Shemale</strong>
                                     <p>Embark on a unique and fulfilling journey with our exceptional shemale escorts.</p>
-                                    <button aria-label="Call Now To Book Your Lovely Goa Escorts">View More</button>
+                                    <button aria-label="Submit Form">View More</button>
                                 </div>
                             </div>
                         </div>
@@ -129,7 +130,7 @@
                                 <div class="category-detail">
                                     <strong>Lesbian</strong>
                                     <p>Turn your desires into reality with our exclusive lesbian escorts.</p>
-                                    <button aria-label="Call Now To Book Your Lovely Goa Escorts">View More</button>
+                                    <button aria-label="Submit Form">View More</button>
                                 </div>
                             </div>
                         </div>

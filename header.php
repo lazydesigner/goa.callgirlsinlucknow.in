@@ -8,7 +8,7 @@
             </div>
         </header>
         <div class="image-h">
-            <img src="<?=$cdn_url ?>goa-profiles/goa.webp" width="100%" height="100%" fetchpriority="high" alt="Goa escorts service">
+            <img src="<?=$cdn_url ?>goa-profiles/goa.webp" width="100%" height="100%" fetchpriority="low" preload="none" alt="Goa escorts service">
         </div>
         <nav>
             <ul id="menu">
