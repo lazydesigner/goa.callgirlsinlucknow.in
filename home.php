@@ -221,7 +221,6 @@
                         <strong>Mahima</strong><br>
                         <b>Meet Real and Hot VIP escort at your hotel room</b>
                         <p>Hey dear, I am Mahima 23 year old a VIP escort who provides premium service for little money. I have the perfect body to make anyone comfortable and aroused. My attractive figure will overwhelm you so much that you will not be able to stop yourself looking at me. </p>
-
                     </div>
                 </div>
                 <div class="long-profile-card">
@@ -232,7 +231,6 @@
                         <strong>Drishti</strong><br>
                         <b>Get Safe and Genuine Divorced housewife Escort near you </b>
                         <p>Hi Love, I'm Drishti and I love helping my clients achieve their sexual fantasies. I am a 32 year old women who loves trying new things while having some fun. I'm ready for any sexual adventure my clients dream of. </p>
-
                     </div>
                 </div>
                 <div class="long-profile-card">
