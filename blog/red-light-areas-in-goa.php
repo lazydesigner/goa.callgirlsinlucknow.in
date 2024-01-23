@@ -38,8 +38,7 @@ include '../profiles-card.php'; ?>
 
                 <p>Goa is one of the most popular tourist destinations in India. It is renowned for its beautiful beaches, vibrant nightlife, and diverse culture. As such, it is no surprise that Goa has its fair share of red-light areas. These areas are home to a variety of sex workers who cater to the needs of tourists as well as locals. Here, there are brothels and bars where women and men work as prostitutes. We present you with a list of the top 10 red-light areas in Goa.</p>
 
-                <div style="width: 100%;height:auto"><img alt="brothels in goa
-" src="<?=$cdn_url ?>goa-profiles/blog/red-light-areas-in-goa-1024x576.webp" width="100%" height="100%" /></div>
+                <div style="width: 100%;height:auto"><img alt="brothels in goa" src="<?=$cdn_url ?>goa-profiles/red-light-areas-in-goa-1024x576.webp" width="100%" height="100%" /></div>
 
                 <h2 class="second-heading">All about prostitution in Goa and brothel streets</h2>
 

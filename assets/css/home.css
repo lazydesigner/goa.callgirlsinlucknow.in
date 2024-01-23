@@ -57,7 +57,7 @@
 .category-detail {
     width: 70%;
     padding: 1.5% 1%;
-    height: 150px;
+    height: 160px;
 }
 .category-detail p {
     padding: 0;
@@ -237,6 +237,8 @@
     .category-img img {
         width: 100%;
         height: 100%;
+        object-fit: cover;
+        object-position: top;
     }
 
     .category-detail {

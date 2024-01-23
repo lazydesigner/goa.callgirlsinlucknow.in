@@ -162,7 +162,7 @@
     <div class="footer-row">
         <div class="footer-col">
             <div class="footer-img-div">
-                <img src="<?=$cdn_url ?>goa-profiles/Raman-Escort-Service.png" width="100%" height="100%" alt="Raman Escorts Service" loading="lazy">
+                <img src="<?= $cdn_url ?>goa-profiles/Raman-Escort-Service.png" width="100%" height="100%" alt="Raman Escorts Service" loading="lazy">
             </div>
         </div>
         <div class="footer-col">
@@ -175,6 +175,25 @@
                 <li><a href="https://www.callgirlsinlucknow.in/disclaimer/">Disclaimer</a></li>
                 <li><a href="https://www.callgirlsinlucknow.in/privacy-policy/">Privacy Policy</a></li>
                 <li><a href="https://www.callgirlsinlucknow.in/terms-and-conditions/">Terms And Conditions</a></li>
+                <ul style="display: flex;gap:3%;padding:0;align-items:center">
+                    <li>
+                        <div style="width:100px;height:auto"><a href="https://www.dmca.com/compliance/callgirlsinlucknow.in" title="DMCA Compliance information for callgirlsinlucknow.in"><img src="https://www.dmca.com/img/dmca-compliant-grayscale.png" alt="DMCA compliant image" width="100%" /></a></div>
+                    </li>
+                    <li>
+                        <div style="width: 100px;height:auto">
+                            <div class="elementor-widget-container">
+                                <a href="https://www.dmca.com/Protection/Status.aspx?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82&amp;refurl=https://www.callgirlsinlucknow.in/call-girls-in-goa/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82" alt="DMCA.com Protection Status" width="100%"></a>
+                                <script data-minify="1" defer="" src="https://www.callgirlsinlucknow.in/wp-content/cache/min/1/Badges/DMCABadgeHelper.min.js?ver=1704074526" data-rocket-status="executed">
+                                </script>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div style="width: 100px;height:auto">
+                    <img src="<?= get_url() ?>assets/images/goa-profiles/rta-2.jpg" width="100%" style="mix-blend-mode: color-burn;" alt="">
+                        </div>
+                    </li>
+                </ul>
             </ul>
         </div>
         <div class="footer-col">
