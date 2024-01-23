@@ -28,6 +28,43 @@
     <?php include '../header.php' ?>
     <div class="content-container">
 
+    <div class="page-profile">
+        <div class="page-profile-image">
+            <img src="https://cdn.callgirlsinlucknow.in/goa-profiles/callgirlsinlucknow.in_.webp" alt="Anjuna Beach Escorts"  width="100%" height="100%">
+        </div>
+        <div class="page-profile-detail">
+            <strong>Details</strong>    
+        <table>
+            <tr> <td><b>Name:</b></td><td>Angelina</td> </tr>
+            <tr> <td><b>Age:</b></td><td>24</td> </tr>
+            <tr> <td><b>Body:</b></td><td>32-28-34</td> </tr>
+            <tr> <td><b>Height:</b></td><td>156cm</td> </tr>
+            <tr> <td><b>Weight:</b></td><td>50kg</td> </tr>
+            <tr> <td><b>Category:</b></td><td>Russian</td> </tr>
+        </table>
+        </div>
+        <div class="page-profile-contact">
+            <div>
+            <strong>Contact Me</strong>
+            <p style="font-weight: 1.2rem;padding:0;margin:0"><b>Call Me Now For Mind Blowing Pleasure </b></p>
+            <div class="page-contact"> <?=$phone ?> <?=$phone_number ?></div>
+            <div class="page-contact"><?=$whatsapp ?> <?=$phone_number ?></div>
+            </div>
+
+            <div class="page-con">
+            <strong>Pricing</strong>
+            <table>
+                <tr><th>1 Hrs</th><th>2Hrs</th><th>Full Night</th></tr>
+                <tr><th>Rs 9000</th><th>Rs 15000</th><th>Rs 40000</th></th>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div class="page-profile2">
+        <strong>About <span>Angelina</span></strong>
+        <p>Hello! Angelina here from Goa and I can fulfill any sexual fantasy you desire of. I am available 24 hours in Goa. I am very sociable and enjoy spending time with other men. I am very courageous and spread love to men. I love to satisfy and please men with my body. I know how to use my body to fulfill your erotic desires with ease and satisfaction. I can create intimate mood and make you feel great. My body is natural and real and it is eager to relieve the stress of all the men who want to spend time with me. Don't hesitate to have me as your company and have the best experience of your life. I am sure you will never forget our happy time once you meet me. Contact me easily by just sending a message on WhatsApp and spend memorable time with me.</p>
+    </div>
+
         <div class="page-container">
             <div class="main-content">
             <h1 class="main-heading">Enjoy curvy Anjuna call girls for your pleasure</h1>

@@ -27,7 +27,70 @@
 <body>
     <?php include '../header.php' ?>
     <div class="content-container">
+    <div class="page-profile">
+            <div class="page-profile-image">
+                <img src="https://cdn.callgirlsinlucknow.in/goa-profiles/6.webp" alt="Anjuna Beach Escorts" width="100%" height="100%">
+            </div>
+            <div class="page-profile-detail">
+                <strong>Details</strong>
+                <table>
+                    <tr>
+                        <td><b>Name:</b></td>
+                        <td>Sandhya</td>
+                    </tr>
+                    <tr>
+                        <td><b>Age:</b></td>
+                        <td>26</td>
+                    </tr>
+                    <tr>
+                        <td><b>Body:</b></td>
+                        <td>32-28-34</td>
+                    </tr>
+                    <tr>
+                        <td><b>Height:</b></td>
+                        <td>156cm</td>
+                    </tr>
+                    <tr>
+                        <td><b>Weight:</b></td>
+                        <td>54kg</td>
+                    </tr>
+                    <tr>
+                        <td><b>Category:</b></td>
+                        <td>Shemale</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="page-profile-contact">
+                <div>
+                    <strong>Contact Me</strong>
+                    <p style="font-weight: 1.2rem;padding:0;margin:0"><b>Call Me Now For Mind Blowing Pleasure </b></p>
+                    <div class="page-contact"> <?= $phone ?> <?= $phone_number ?></div>
+                    <div class="page-contact"><?= $whatsapp ?> <?= $phone_number ?></div>
+                </div>
 
+                <div class="page-con">
+                    <strong>Pricing</strong>
+                    <table>
+                        <tr>
+                            <th>1 Hrs</th>
+                            <th>2Hrs</th>
+                            <th>Full Night</th>
+                        </tr>
+                        <tr>
+                            <th>Rs 9000</th>
+                            <th>Rs 15000</th>
+                            <th>Rs 40000</th>
+                            </th>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="page-profile2">
+            <strong>About <span>Sandhya</span></strong>
+            <p>Hi Love, Sandhya is here to satisfy you with the sexiest body in Goa. If you are looking for a model that can relieve your stress and make you feel relaxed. Then I am a perfect fit for you. As I understand the needs of my customers very well. I am an advertising model also works as private escort in Raman escort agency. If you really need some sensual pleasure in their life. I can fulfill your sexual desire in just a few hours. I know how to work with my body and make it comfortable. I am very naughty and sensual in bed and am going out of my limits to satisfy you. If you want to satisfy your sexual desire for a long time, So call me and fill my mouth with your cum. I can make your imagination come true. After seeing my hot and shapely body you can’t wait any more. If you are ready to go to the next level of pleasure and wild fun then call me.
+
+            </p>
+        </div>
         <div class="page-container">
             <div class="main-content">
             <h1 class="main-heading">Experience the Curvy call girls in Ponda beaches</h1>

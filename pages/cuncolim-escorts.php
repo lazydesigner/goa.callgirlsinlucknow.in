@@ -28,6 +28,70 @@ include '../profiles-card.php'; ?>
     <?php include '../header.php' ?>
     <div class="content-container">
 
+        <div class="page-profile">
+            <div class="page-profile-image">
+                <img src="https://cdn.callgirlsinlucknow.in/goa-profiles/housewife-in-goa-768x1024.webp" alt="Anjuna Beach Escorts" width="100%" height="100%">
+            </div>
+            <div class="page-profile-detail">
+                <strong>Detail</strong>
+                <table>
+                    <tr>
+                        <td><b>Name:</b></td>
+                        <td>Drishti</td>
+                    </tr>
+                    <tr>
+                        <td><b>Age:</b></td>
+                        <td>32</td>
+                    </tr>
+                    <tr>
+                        <td><b>Body:</b></td>
+                        <td>34-32-36</td>
+                    </tr>
+                    <tr>
+                        <td><b>Height:</b></td>
+                        <td>156cm</td>
+                    </tr>
+                    <tr>
+                        <td><b>Weight:</b></td>
+                        <td>55kg</td>
+                    </tr>
+                    <tr>
+                        <td><b>Category:</b></td>
+                        <td>Housewife</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="page-profile-contact">
+                <div>
+                    <strong>Contact Me</strong>
+                    <p style="font-weight: 1.2rem;padding:0;margin:0"><b>Call Me Now For Mind Blowing Pleasure </b></p>
+                    <div class="page-contact"> <?= $phone ?> <?= $phone_number ?></div>
+                    <div class="page-contact"><?= $whatsapp ?> <?= $phone_number ?></div>
+                </div>
+
+                <div class="page-con">
+                    <strong>Pricing</strong>
+                    <table>
+                        <tr>
+                            <th>1 Hrs</th>
+                            <th>2Hrs</th>
+                            <th>Full Night</th>
+                        </tr>
+                        <tr>
+                            <th>Rs 9000</th>
+                            <th>Rs 15000</th>
+                            <th>Rs 40000</th>
+                            </th>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="page-profile2">
+            <strong>About <span>Drishti</span></strong>
+            <p>Hi Love, I'm Drishti and I love helping my clients achieve their sexual fantasies. I am a 32 year old women who loves trying new things while having some fun. I'm ready for any sexual adventure my clients dream of. I have a very good understanding of men and I ensure that my clients do not feel left out with me. I can make sweet or naughty ads as per my customer's requirement and mood. I believe in proper communication and trust to unleash your deepest fantasies in bed. We will spend more beautiful time together if you make equal efforts from your side. I can be your ideal girlfriend who can give you enough time and understand you properly and make you feel special.
+            </p>
+        </div>
+
         <div class="page-container">
             <div class="main-content">
                 <h1 class="main-heading">Start the kinky sex with Cuncolim Escorts</h1>
@@ -41,7 +105,7 @@ include '../profiles-card.php'; ?>
                 <h3 class="third-heading">Cuncolim Escorts Always Ensure Quality Services</h3>
 
                 <p>Whether you are seeking a companion for social, personal, or emotional interactions, discovering a reputable profile ensures a beautiful experience. To enjoy the company of these&nbsp;<a href="https://www.callgirlsinlucknow.in/call-girls-in-goa/">Goa call girls</a>, always look for top girls who match your personality, tastes, and preferences. With such girls, you can expect to have the best experience. The&nbsp;<a href="https://www.callgirlsinlucknow.in/cuncolim-escorts/">Cuncolim Escorts agency&nbsp;</a>is the leading provider of call girls, ensuring complete satisfaction.</p>
-                    <?=$profile1 ?>
+                <?= $profile1 ?>
                 <h2 class="third-heading"><strong>Benefits Of Choosing Our Cuncolim Escorts</strong></h2>
 
                 <p>While spending time with escorts in Cuncolim can be captivating, finding the best call girls in Cuncolim is not a simple task and comes with its challenges. It requires a significant time investment, and there&rsquo;s a risk of falling into the traps of fake profiles. The&nbsp;<a href="https://www.callgirlsinlucknow.in/cuncolim-escorts/">Cuncolim Escorts service&nbsp;</a>features passionate ladies who enjoy exploring unique experiences with their clients.</p>
@@ -63,7 +127,7 @@ include '../profiles-card.php'; ?>
                 <p>What will this cost you? Our rates are comprehensive, even for our VIP escorts in Cuncolim&mdash;no additional charges, hidden fees, tricks, or gimmicks. We provide a discreet and secure experience&mdash;just a call or click away for your desired companion!</p>
 
                 <p>Whether you want to explore historical landmarks, have a shopping experience, visit clubs and bars, or spend exciting time with our escorts, our call girls are ready to offer you the best service in every situation.</p>
-                    <?=$profile2 ?>
+                <?= $profile2 ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

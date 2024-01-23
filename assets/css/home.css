@@ -47,7 +47,7 @@
     height: auto;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between; 
 }
 .category-img {
     width: 30%;
@@ -94,8 +94,34 @@
     margin: 2% 0;
     display: flex;
     border: 1px solid lightgrey;
+    position: relative;
     border-radius: 10px;
     box-shadow: 0 0 12px 5px rgb(157, 157, 157);
+}
+.add,.top-add{
+    position: absolute;
+    top: -6%;
+    border-radius: 10px;
+    right: 3%;
+    width: 50px;
+    display: grid;
+    place-items: center;
+    color: white;
+    font-weight: bold;
+    height: 25px;
+    background-color: var(--navbarColor);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: small;
+    user-select: none;
+}
+.top-add{
+    width: 100px;
+    height: 25px;
+}
+.top-add svg, .add svg{
+    transform: rotateX(180deg) rotate(-90deg);
 }
 .long-profile-img {
     width: 17.5%;
@@ -110,6 +136,49 @@
 .long-profile-detail strong {
     font-size: 1.7rem;
 }
+.long-profile-detail p{
+    margin: 1.5% 0;
+    padding: 0;
+}
+
+.long-profile-action{
+    width: 100%;
+    height: a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.long-profile-action div{width: 50%;}
+.long-profile-action button{
+    /* width: 100px; */
+    height: 40px;
+    padding: 0 2%;
+    margin:0 1%;
+    float: right;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    /* gap: 2%; */
+}
+.long-profile-action .whatsapp-btn{
+    background-color: green;
+    color: white;
+}
+.long-profile-action .call-btn{
+    border: 1px solid var(--navbarColor);
+    background-color: transparent;
+    color: var(--navbarColor);
+}
+.long-profile-action .whatsapp-btn:hover{
+    background-color: rgb(0, 92, 0);}
+.long-profile-action .call-btn:hover{ background-color: var(--navbarColor);color: white;}
+
+
+
+
 @media screen and (max-width:770px) {
     .container {
         width: 98%;
@@ -181,6 +250,10 @@
         width: 60%;
         height: auto;
     }
+    .add,.top-add{top:1%}
+    .long-profile-action{flex-wrap: wrap;margin: 2% 0;}
+    .long-profile-action div{width:100%;margin-top: 2%;}
+    .long-profile-action button{float: left;}
 
 }
 
@@ -221,7 +294,10 @@
         width: 100%;
         height: auto;
     }
-
+    .add,.top-add{top:1%}
+    .long-profile-action{flex-wrap: wrap;margin: 2% 0;}
+    .long-profile-action div{width:100%;margin-top: 2%;}
+    .long-profile-action button{float: left;}
 }
 
 @media screen and (max-width:400px) {

@@ -237,6 +237,78 @@ footer ul li a:hover {
     border-top: none;
     border-radius: 0 0 10px 10px;
 }
+.footer-other-location{
+    width: 100%;
+    height: auto;padding: 2% 10%;
+}
+.footer-other-location-row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 10;
+    gap: 2%;
+}
+.cat-btn{
+    display: inline-block;
+    text-align: center;
+    width: auto;
+    padding: 0 3%;
+    margin: 5% 0;
+    line-height: 40px;
+    font-weight: bold;
+    height: 40px;
+    border-radius: 100px;
+    background-color: var(--navbarColor);
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+.cat-btn::after{
+    content: '';
+    width: 100px;
+    height: 0;
+    box-shadow: 0 0 15px 5px yellow;
+    position: absolute;
+    top: 20px;
+    transform: translateX(50px) rotate(45deg) ;
+    transition: 1s transform ease-in-out;
+}
+.cat-btn:hover{transform: scale(1.01);
+    text-shadow: 0 0 6px 2.5px black;}
+.cat-btn:hover::after{
+    
+    transform:translateX(-220px)  rotate(45deg);
+}
+
+.call-the-call-btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    position: fixed;
+    left: 2%;
+    bottom: 2%;
+    background-color: var(--navbarColor);
+    color: white;
+    cursor: pointer;
+    font-size: larger;
+}
+.call-the-whatsapp-btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
 
 @media screen and (max-width:770px) {
 
@@ -260,6 +332,7 @@ footer ul li a:hover {
     .areas-container {
         margin: 2% 0;
     }
+    .cat-btn{margin: 3% 0;}
 }
 
 @media screen and (max-width:700px) {
@@ -318,6 +391,7 @@ footer ul li a:hover {
 
 
 @media screen and (max-width:500px) {
+    .cat-btn{margin: 2% 0;}
     .some-profile-card {
         width: 48%;
         height: auto;

@@ -27,6 +27,44 @@
     <?php include '../header.php'; include '../profiles-card.php' ?>
     <div class="content-container">
 
+    <div class="page-profile">
+        <div class="page-profile-image">
+            <img src="https://cdn.callgirlsinlucknow.in/goa-profiles/3.webp" alt="Anjuna Beach Escorts"  width="100%" height="100%">
+        </div>
+        <div class="page-profile-detail">
+            <strong>Details</strong>    
+        <table>
+            <tr> <td><b>Name:</b></td><td>Mahima</td> </tr>
+            <tr> <td><b>Age:</b></td><td>23</td> </tr>
+            <tr> <td><b>Body:</b></td><td>32-28-34</td> </tr>
+            <tr> <td><b>Height:</b></td><td>156cm</td> </tr>
+            <tr> <td><b>Weight:</b></td><td>50kg</td> </tr>
+            <tr> <td><b>Category:</b></td><td>VIP</td> </tr>
+        </table>
+        </div>
+        <div class="page-profile-contact">
+            <div>
+            <strong>Contact Me</strong>
+            <p style="font-weight: 1.2rem;padding:0;margin:0"><b>Call Me Now For Mind Blowing Pleasure </b></p>
+            <div class="page-contact"> <?=$phone ?> <?=$phone_number ?></div>
+            <div class="page-contact"><?=$whatsapp ?> <?=$phone_number ?></div>
+            </div>
+
+            <div class="page-con">
+            <strong>Pricing</strong>
+            <table>
+                <tr><th>1 Hrs</th><th>2Hrs</th><th>Full Night</th></tr>
+                <tr><th>Rs 9000</th><th>Rs 15000</th><th>Rs 40000</th></th>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div class="page-profile2">
+        <strong>About <span>Mahima</span></strong>
+        <p>Hey dear, I am Mahima 23 year old a VIP escort who provides premium service for little money. I have the perfect body to make anyone comfortable and aroused. My attractive figure will overwhelm you so much that you will not be able to stop yourself looking at me. I value your money and make sure you enjoy it to the fullest with me. I am a down to earth woman but very emotional and wild in bed. I have a charismatic nature which will attract you a lot. I am open to anything like oral, role play or sex without condom. I know how to satisfy your sexual hunger and I will pamper you all the time. Bring a treat for yourself in the form of me and have a good time with you and pamper yourself.</p>
+    </div>
+
+
     <div class="page-container">
         <div class="main-content">
         <h1 class="main-heading">In-call and out-call Service for Panaji Escorts</h1>

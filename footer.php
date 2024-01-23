@@ -109,6 +109,19 @@
     </div>
 </div>
 
+<div class="footer-other-location">
+    <div class="footer-other-location-row">
+        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="<?= get_url() ?>college-escorts/">College Escorts</a></div>
+        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="<?= get_url() ?>housewife-escorts/">Housewife Escorts</a></div>
+        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="<?= get_url() ?>russian-escorts/">Russian Escorts</a></div>
+        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="<?= get_url() ?>shemale-escorts/">Shemale Escorts</a></div>
+        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="<?= get_url() ?>celebrity-escorts/">Celebrity Escorts</a></div>
+        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="<?= get_url() ?>lesbian-escorts/">Lesbian Escorts</a></div>
+    </div>
+</div>
+
+
+
 <div class="service-information">
     <div class="service-info-row">
         <div class="service-info-col">
@@ -159,6 +172,10 @@
 </div>
 
 <footer>
+<a href="tel:<?= $phone_number ?>"><div class="call-the-call-btn"><?=$phone ?></div></a>
+<a  href="https://wa.me/<?= $phone_number ?>"><div class="call-the-whatsapp-btn"><?=$whatsapp ?></div></a>
+
+
     <div class="footer-row">
         <div class="footer-col">
             <div class="footer-img-div">
@@ -175,25 +192,27 @@
                 <li><a href="https://www.callgirlsinlucknow.in/disclaimer/">Disclaimer</a></li>
                 <li><a href="https://www.callgirlsinlucknow.in/privacy-policy/">Privacy Policy</a></li>
                 <li><a href="https://www.callgirlsinlucknow.in/terms-and-conditions/">Terms And Conditions</a></li>
-                <ul style="display: flex;gap:3%;padding:0;align-items:center">
-                    <li>
-                        <div style="width:100px;height:auto"><a href="https://www.dmca.com/compliance/callgirlsinlucknow.in" title="DMCA Compliance information for callgirlsinlucknow.in"><img src="https://www.dmca.com/img/dmca-compliant-grayscale.png" alt="DMCA compliant image" width="100%" /></a></div>
-                    </li>
-                    <li>
-                        <div style="width: 100px;height:auto">
-                            <div class="elementor-widget-container">
-                                <a href="https://www.dmca.com/Protection/Status.aspx?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82&amp;refurl=https://www.callgirlsinlucknow.in/call-girls-in-goa/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82" alt="DMCA.com Protection Status" width="100%"></a>
-                                <script data-minify="1" defer="" src="https://www.callgirlsinlucknow.in/wp-content/cache/min/1/Badges/DMCABadgeHelper.min.js?ver=1704074526" data-rocket-status="executed">
-                                </script>
+                <li>
+                    <ul style="display: flex;gap:3%;padding:0;align-items:center;justify-content: center; flex-wrap: wrap;">
+                        <li>
+                            <div style="width:100px;height:auto"><a href="https://www.dmca.com/compliance/callgirlsinlucknow.in" title="DMCA Compliance information for callgirlsinlucknow.in"><img src="https://www.dmca.com/img/dmca-compliant-grayscale.png" alt="DMCA compliant image" width="100%" /></a></div>
+                        </li>
+                        <li>
+                            <div style="width: 100px;height:auto">
+                                <div class="elementor-widget-container">
+                                    <a href="https://www.dmca.com/Protection/Status.aspx?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82&amp;refurl=https://www.callgirlsinlucknow.in/call-girls-in-goa/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82" alt="DMCA.com Protection Status" width="100%"></a>
+                                    <script data-minify="1" defer="" src="https://www.callgirlsinlucknow.in/wp-content/cache/min/1/Badges/DMCABadgeHelper.min.js?ver=1704074526" data-rocket-status="executed">
+                                    </script>
+                                </div>
                             </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div style="width: 100px;height:auto">
-                    <img src="<?= get_url() ?>assets/images/goa-profiles/rta-2.jpg" width="100%" style="mix-blend-mode: color-burn;" alt="">
-                        </div>
-                    </li>
-                </ul>
+                        </li>
+                        <li>
+                            <div style="width: 100px;height:auto">
+                                <img src="<?= get_url() ?>assets/images/goa-profiles/rta-2.jpg" width="100%" style="mix-blend-mode: color-burn;" alt="">
+                            </div>
+                        </li>
+                    </ul>
+                </li>
             </ul>
         </div>
         <div class="footer-col">

@@ -1,7 +1,7 @@
 <?php include '../routes.php';
 include '../profiles-card.php'; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
 
 <head>
     <meta charset="UTF-8">
@@ -27,6 +27,8 @@ include '../profiles-card.php'; ?>
 <body>
     <?php include '../header.php' ?>
     <div class="content-container">
+
+   
 
         <div class="page-container">
             <div class="main-content">
