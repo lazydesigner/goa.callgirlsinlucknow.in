@@ -62,7 +62,7 @@
             </div>
             <div class="page-profile-contact">
                 <div>
-                    <strong>Contact Me</strong>
+                    <strong>Contact</strong>
                     <p style="font-weight: 1.2rem;padding:0;margin:0"><b>Call Me Now For Mind Blowing Pleasure </b></p>
                     <div class="page-contact"> <?= $phone ?> <?= $phone_number ?></div>
                     <div class="page-contact"><?= $whatsapp ?> <?= $phone_number ?></div>
