@@ -46,7 +46,7 @@ include './profiles-card.php'; ?>
             <div class="main-content">
 
                 <div class="blog-items">
-                    <a href="<?= get_url() ?>blog/hotels-in-go-for-adult-services/" class="main-heading"><p >Hotels List in Goa For Adult Services</p></a>
+                    <a href="<?= get_url() ?>blog/hotels-in-goa-for-adult-services/" class="main-heading"><p >Hotels List in Goa For Adult Services</p></a>
                 </div>
                 <div class="blog-items">
                     <a href="<?= get_url() ?>blog/one-night-stand-girls-in-goa/" class="main-heading"><p >One Night Stand Girls in Goa</p></a>
