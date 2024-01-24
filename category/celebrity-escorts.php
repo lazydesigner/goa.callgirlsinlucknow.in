@@ -103,7 +103,7 @@ include '../profiles-card.php'; ?>
 
                 <p>Planning a weekend getaway in Goa? Consider the services of call girls to enhance your experience. Whether you&rsquo;re a business traveller or an independent explorer, meeting someone can add a new dimension to your trip. Whether you&rsquo;re travelling with friends or flying solo, Goa&rsquo;s charm and vibrant atmosphere are sure to make your weekend unforgettable.</p>
 
-                <p>Finding the perfect companion for your journey can be a crucial factor in making your trip memorable. Not everyone is fortunate enough to find an ideal partner on their own. That&rsquo;s where we, the&nbsp;<a href="<?=get_url() ?>call-girls-in-goa">call girls in Goa</a>, specialize in providing you with the perfect weekend date. With our expertise, you can plan a getaway with a companion who will help you escape the daily hustle and bustle of life, making your trip truly special.</p>
+                <p>Finding the perfect companion for your journey can be a crucial factor in making your trip memorable. Not everyone is fortunate enough to find an ideal partner on their own. That&rsquo;s where we, the&nbsp;<a href="<?=get_url() ?>">call girls in Goa</a>, specialize in providing you with the perfect weekend date. With our expertise, you can plan a getaway with a companion who will help you escape the daily hustle and bustle of life, making your trip truly special.</p>
 
             </div>
             <div class="side-content">

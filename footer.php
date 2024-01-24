@@ -2,32 +2,32 @@
     <h3 class="third-heading">GOA HOTEL SERVICE</h3>
     <!-- <div class="container"> -->
     <div class="list-of-hotels-row">
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-hyatt-centric-candolim">Hyatt Centric Candolim</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-itc-grand-hotel">ITC Grand Hotel</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-novotel-hotel">Novotel hotel</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-taj-exotica-resort">Taj Exotica Resort</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-taj-fort-aguada-resort">Taj Fort Aguada Resort</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-hyatt-centric-candolim/">Hyatt Centric Candolim</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-itc-grand-hotel/">ITC Grand Hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-novotel-hotel/">Novotel hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-taj-exotica-resort/">Taj Exotica Resort</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-taj-fort-aguada-resort/">Taj Fort Aguada Resort</a></div>
     </div>
     <div class="list-of-hotels-row">
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-marriott-resort-and-spa">Marriott Resort & Spa</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-deltin-suites">Deltin Suites</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-doubletree-by-hilton">DoubleTree by Hilton</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-grand-hyatt-hotel">Grand Hyatt Hotel</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-hard-rock-hotel">Hard Rock Hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-marriott-resort-and-spa/">Marriott Resort & Spa</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-deltin-suites/">Deltin Suites</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-doubletree-by-hilton/">DoubleTree by Hilton</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-grand-hyatt-hotel/">Grand Hyatt Hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-hard-rock-hotel/">Hard Rock Hotel</a></div>
     </div>
     <div class="list-of-hotels-row">
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-le-meridien">Le Meridien</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-park-inn-by-radisson">Park Inn By Radisson</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-radisson-blu-resort">Radisson Blu Resort</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-taj-holiday-village-resort">Taj Holiday Village Resort</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-the-crown">The Crown</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-le-meridien/">Le Meridien</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-park-inn-by-radisson/">Park Inn By Radisson</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-radisson-blu-resort/">Radisson Blu Resort</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-taj-holiday-village-resort/">Taj Holiday Village Resort</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-the-crown/">The Crown</a></div>
     </div>
     <div class="list-of-hotels-row">
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-resort-rio">Resort Rio</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-the-lalit-golf">The Lalit Golf</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-the-leela-hotel">The Leela Hotel</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-vivanta-hotel">Vivanta Hotel</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-fort-tiracol-heritage-hotel">Fort Tiracol Heritage Hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-resort-rio/">Resort Rio</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-the-lalit-golf/">The Lalit Golf</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-the-leela-hotel/">The Leela Hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-vivanta-hotel/">Vivanta Hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-in-fort-tiracol-heritage-hotel/">Fort Tiracol Heritage Hotel</a></div>
     </div>
     <!-- </div> -->
 </div>
