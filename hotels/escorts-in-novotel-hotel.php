@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Top Rated Escorts In Novotel Hotel Rooms | Goa Escorts" />
     <meta name="twitter:description" content="Have long lasting fun with our beautiful and gorgeous escorts in Novotel hotel room without any tension. All Goa hotel service available 24x7." />
     <link rel="canonical" href="<?= get_url() ?>escorts-in-novotel-hotel/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Lesbian Escorts In Goa | Top VIP Lesbians Call Girls" />
     <meta name="twitter:description" content="VIP Lesbian escorts in Goa provided by our Raman Escort Service at Cheap Prices are available. 100% genuine Lesbian Escort girls." />
     <link rel="canonical" href="<?= get_url() ?>lesbian-escorts/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Best One-night Stand Girls In Goa| Hire Top-rated Escorts" />
     <meta name="twitter:description" content="Get an affordable one night stand girls in Goa with Raman escort service in just one click. Our service is 24x7 and we also deal in Cash." />
     <link rel="canonical" href="<?= get_url() ?>blog/one-night-stand-girls-in-goa/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Shemale Escorts In Goa | Meet Ladyboy Escorts" />
     <meta name="twitter:description" content="Experience the ultimate pleasure with our elite Shemale escorts in Goa. Our stunning ladyboy escort in Goa will fulfill your every desire. Book now!" />
     <link rel="canonical" href="<?= get_url() ?>shemale-escorts/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Top 10 Red Light Areas In Goa | Goa Sex Areas" />
     <meta name="twitter:description" content="Discover the top 10 red light areas in Goa. Find out the best spots to find Goa hookers, Brothels, Fuck Girls, and Goa prostitution hotels." />
     <link rel="canonical" href="<?= get_url() ?>blog/red-light-areas-in-goa/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

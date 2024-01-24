@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Premium Russian Escorts In Goa | Russian Call Girls In Goa" />
     <meta name="twitter:description" content="Visit our website and browse 100+ Russian escorts in Goa. You can call or WhatsApp us to get the price and recent images of your hotel room." />
     <link rel="canonical" href="<?= get_url() ?>russian-escorts/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Vagator Escorts Service Outcall Available Only" />
     <meta name="twitter:description" content="Our Vagator Escorts are professional and will never disappoint our clients. 24x7 cash service with real and genuine images." />
     <link rel="canonical" href="<?= get_url() ?>vagator-escorts/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="College Escorts In Goa | Just On A Phone Call" />
     <meta name="twitter:description" content="We provide high quality college escorts in Goa in Cash. All our college girls are hot and young. Enjoy early bird sex in Goa." />
     <link rel="canonical" href="<?= get_url() ?>college-escorts/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

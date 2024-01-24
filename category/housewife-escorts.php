@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Book Genuine Housewife Escorts In Goa | Raman Escort Agency" />
     <meta name="twitter:description" content="We provide genuine Housewife escorts in Goa. Please call or Whatsapp for us for more details about housewife call girls in goa with images." />
     <link rel="canonical" href="<?= get_url() ?>housewife-escorts/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>

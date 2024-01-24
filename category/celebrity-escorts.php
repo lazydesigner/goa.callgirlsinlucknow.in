@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Premium High-Class Escorts In Goa | Celebrity Escorts In Goa" />
     <meta name="twitter:description" content="Just contact a reputed escort agency in Goa like us and book your VIP escorts, Celebrity escorts in Goa, or Model Call girls in Goa just on Whatsapp" />
     <link rel="canonical" href="<?= get_url() ?>celebrity-escorts/" />
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>
