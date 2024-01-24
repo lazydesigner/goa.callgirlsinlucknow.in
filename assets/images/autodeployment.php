@@ -17,7 +17,7 @@ if ($data->event_type !== 'push') {
 // Check if the repository matches your configuration
 // https://github.com/lazydesigner/goa.callgirlsinlucknow.in.git
 $repository = $data->repository->full_name;
-if ($repository !== 'lazydesigner/goa.callgirlsinlucknow.in.git') {
+if ($repository !== 'lazydesigner/goa.callgirlsinlucknow.in') {
   http_response_code(204);
   exit('Repository not supported');
 }
@@ -31,7 +31,7 @@ if (!file_exists($repoPath)) {
 }
 
 // Copy the files to your web directory
-$webPath = '<full_path_to_web_directory_on_server>';
+$webPath = '/home/arooteaj/goa.callgirlsinlucknow.in/';
 if (file_exists("{$repoPath}/public")) {
   shell_exec("rm -rf {$webPath}/* && cp -r {$repoPath}/public/* {$webPath}/");
 } else {
