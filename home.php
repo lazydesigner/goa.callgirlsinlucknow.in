@@ -11,7 +11,7 @@ include './profiles-card.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
     <link rel="preconnect" href="<?= $cdn_url ?>" crossorigin>
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css" async>
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1" async>
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/home.css?v=1" async>
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1" defer>
     <title>7080775988 | Goa Escorts Service @Rs.3500 -Call Girls in Goa</title>
