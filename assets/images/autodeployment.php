@@ -23,7 +23,7 @@ if ($repository !== 'lazydesigner/goa.callgirlsinlucknow.in') {
 }
 
 // Clone the repository or pull changes if already exists
-$repoPath = '<full_path_to_repository_on_server>';
+$repoPath = '/home/arooteaj/goa.callgirlsinlucknow.in/';
 if (!file_exists($repoPath)) {
   shell_exec("git clone https://github.com/lazydesigner/goa.callgirlsinlucknow.in.git {$repoPath}");
 } else {
@@ -31,7 +31,7 @@ if (!file_exists($repoPath)) {
 }
 
 // Copy the files to your web directory
-$webPath = '/home/arooteaj/goa.callgirlsinlucknow.in/';
+$webPath = '/home/arooteaj/public_html/goa.callgirlsinlucknow.in/';
 if (file_exists("{$repoPath}/public")) {
   shell_exec("rm -rf {$webPath}/* && cp -r {$repoPath}/public/* {$webPath}/");
 } else {
