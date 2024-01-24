@@ -5,4 +5,3 @@ deployment:
     - /bin/cp * $DEPLOYPATH
     - /bin/find $DEPLOYPATH -type d -name .git -exec rm -rf {} \;  # Remove .git directories
     - /bin/find $DEPLOYPATH -type f -name .gitignore -exec rm -f {} \;  # Remove .gitignore files
-    - /bin/find $DEPLOYPATH -type f -name .cpanel.yml -exec rm -f {} \;  # Remove .cpanel.yml file
