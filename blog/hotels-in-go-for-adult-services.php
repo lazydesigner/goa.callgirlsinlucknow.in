@@ -20,8 +20,8 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:description" content="Here is complete list of premium hotels in goa. We are happy to provide escorts in your hotel Room. There are some list of Adult hotels in Goa." />
     <link rel="canonical" href="<?= get_url() ?>blog/hotels-in-go-for-adult-services/" />
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css?v=1">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>
 
 <body>

@@ -21,7 +21,7 @@ include '../profiles-card.php'; ?>
     <link rel="canonical" href="<?= get_url() ?>escorts-in-hard-rock-hotel/" />
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>
 
 <body>

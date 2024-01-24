@@ -20,8 +20,8 @@
     <meta name="twitter:description" content="meta description" />
     <link rel="canonical" href="<?=get_url() ?>polem-escorts/" />
     <link rel="stylesheet" href="<?=get_url() ?>assets/css/header.css">
-    <link rel="stylesheet" href="<?=get_url() ?>assets/css/pages.css">
-    <link rel="stylesheet" href="<?=get_url() ?>assets/css/footer.css">
+    <link rel="stylesheet" href="<?=get_url() ?>assets/css/pages.css?v=1">
+    <link rel="stylesheet" href="<?=get_url() ?>assets/css/footer.css?v=1">
 </head>
 
 <body>

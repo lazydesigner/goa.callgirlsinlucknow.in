@@ -281,7 +281,7 @@ footer ul li a:hover {
     
     transform:translateX(-220px)  rotate(45deg);
 }
-
+ 
 .call-the-call-btn{
     width: 70px;
     height: 70px;
@@ -441,6 +441,14 @@ footer ul li a:hover {
         flex: 100%;
         margin: 2% 0;
         text-align: center;
+    }
+    .call-the-whatsapp-btn{width: 50%;
+        border-radius: 0;
+        bottom: 0;right: 0;}
+    .call-the-call-btn{
+        width: 50%;
+        border-radius: 0;
+        bottom: 0;left: 0;
     }
 
 }

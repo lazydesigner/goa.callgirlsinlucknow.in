@@ -6,6 +6,10 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 ReWriteRule ^$ home.php [NC,L]
 
+ReWriteRule ^blog([/]?)$ blog.php [NC,L]
+
+
+
 ReWriteRule ^agonda-escorts([/]?)$ pages/agonda-escorts.php [NC,L]
 ReWriteRule ^anjuna-escorts([/]?)$ pages/anjuna-escorts.php [NC,L]
 ReWriteRule ^arambol-escorts([/]?)$ pages/arambol-escorts.php [NC,L]

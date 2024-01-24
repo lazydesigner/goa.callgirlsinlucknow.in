@@ -13,15 +13,15 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top 10 Red Light Areas In Goa | Goa Sex Areas" />
     <meta property="og:description" content="Discover the top 10 red light areas in Goa. Find out the best spots to find Goa hookers, Brothels, Fuck Girls, and Goa prostitution hotels." />
-    <meta property="og:url" content="<?= get_url() ?>blog/blog/red-light-areas-in-goa/" />
+    <meta property="og:url" content="<?= get_url() ?>blog/red-light-areas-in-goa/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Top 10 Red Light Areas In Goa | Goa Sex Areas" />
     <meta name="twitter:description" content="Discover the top 10 red light areas in Goa. Find out the best spots to find Goa hookers, Brothels, Fuck Girls, and Goa prostitution hotels." />
-    <link rel="canonical" href="<?= get_url() ?>blog/blog/red-light-areas-in-goa/" />
+    <link rel="canonical" href="<?= get_url() ?>blog/red-light-areas-in-goa/" />
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css">
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css">
-    <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/pages.css?v=1">
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1">
 </head>
 
 <body>

@@ -11,9 +11,9 @@ include './profiles-card.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
     <link rel="preconnect" href="<?= $cdn_url ?>" crossorigin>
-    <link rel="stylesheet" href="./assets/css/header.css" async>
-    <link rel="stylesheet" href="./assets/css/home.css" async>
-    <link rel="stylesheet" href="./assets/css/footer.css" defer>
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css" async>
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/home.css?v=1" async>
+    <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1" defer>
     <title>9548086524 | Goa Escorts Service @Rs.3500 -Call Girls in Goa</title>
     <meta name="description" content="We deliver call girls in Goa within 40 minutes. Raman Goa Escorts Service provide genuine girls within your budget and deals in Cash payment.">
     <meta property="og:locale" content="en_US" />

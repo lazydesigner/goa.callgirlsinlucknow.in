@@ -172,8 +172,8 @@
 </div>
 
 <footer>
-<a href="tel:<?= $phone_number ?>"><div class="call-the-call-btn"><?=$phone ?></div></a>
-<a  href="https://wa.me/<?= $phone_number ?>"><div class="call-the-whatsapp-btn"><?=$whatsapp ?></div></a>
+<a href="tel:<?= $phone_number ?>" aria-label="Call Now"><div class="call-the-call-btn"><?=$phone ?></div></a>
+<a  href="https://wa.me/<?= $phone_number ?>" aria-label="Whatsapp Now"><div class="call-the-whatsapp-btn"><?=$whatsapp ?></div></a>
 
 
     <div class="footer-row">
