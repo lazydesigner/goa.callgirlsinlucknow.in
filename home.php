@@ -78,10 +78,10 @@ include './profiles-card.php'; ?>
                 <div class="long-profile-card">
                     <span class="top-add"><?=$top ?> Super Top</span>
                     <div class="long-profile-img"> 
-                    <a href="<?= get_url() ?>panaji-escorts"><img src="<?= $cdn_url ?>goa-profiles/3.webp" width="100%" height="100%" alt="HouseWife Escorts Goa" loading="lazy"></a>
+                    <a href="<?= get_url() ?>panaji-escorts/"><img src="<?= $cdn_url ?>goa-profiles/3.webp" width="100%" height="100%" alt="HouseWife Escorts Goa" loading="lazy"></a>
                     </div>
                     <div class="long-profile-detail">
-                    <a href="<?= get_url() ?>panaji-escorts"><strong>Mahima</strong><br></a>
+                    <a href="<?= get_url() ?>panaji-escorts/"><strong>Mahima</strong><br></a>
                         <b>Meet Real and Hot VIP escort at your hotel room</b>
                         <p>Hey dear, I am Mahima 23 year old a VIP escort who provides premium service for little money. I have the perfect body to make anyone comfortable and aroused. My attractive figure will overwhelm you so much that you will not be able to stop yourself looking at me. </p>
                         <div class="long-profile-action">
@@ -96,10 +96,10 @@ include './profiles-card.php'; ?>
                 <div class="long-profile-card">
                     <span class="add"><?=$top ?> Top</span>
                     <div class="long-profile-img">
-                    <a href="<?= get_url() ?>cuncolim-escorts"><img src="<?= $cdn_url ?>goa-profiles/housewife-in-goa-768x1024.webp" width="100%" height="100%" alt="Lasbian dating in goa" loading="lazy"></a>
+                    <a href="<?= get_url() ?>cuncolim-escorts/"><img src="<?= $cdn_url ?>goa-profiles/housewife-in-goa-768x1024.webp" width="100%" height="100%" alt="Lasbian dating in goa" loading="lazy"></a>
                     </div>
                     <div class="long-profile-detail">
-                    <a href="<?= get_url() ?>cuncolim-escorts"><strong>Drishti</strong></a><br>
+                    <a href="<?= get_url() ?>cuncolim-escorts/"><strong>Drishti</strong></a><br>
                         <b>Get Safe and Genuine Divorced housewife Escort near you </b>
                         <p>Hi Love, I'm Drishti and I love helping my clients achieve their sexual fantasies. I am a 32 year old women who loves trying new things while having some fun. I'm ready for any sexual adventure my clients dream of. </p>
                         <div class="long-profile-action">
@@ -114,10 +114,10 @@ include './profiles-card.php'; ?>
                 <div class="long-profile-card">
                     <span class="top-add"><?=$top ?> Super Top</span>
                     <div class="long-profile-img">
-                    <a href="<?= get_url() ?>baga-escorts"><img src="<?= $cdn_url ?>goa-profiles/ts-dating-in-goa.webp" width="100%" height="100%" alt="HouseWife Escorts Goa" loading="lazy"></a>
+                    <a href="<?= get_url() ?>baga-escorts/"><img src="<?= $cdn_url ?>goa-profiles/ts-dating-in-goa.webp" width="100%" height="100%" alt="HouseWife Escorts Goa" loading="lazy"></a>
                     </div>
                     <div class="long-profile-detail">
-                    <a href="<?= get_url() ?>baga-escorts"><strong>Angle</strong></a><br>
+                    <a href="<?= get_url() ?>baga-escorts/"><strong>Angle</strong></a><br>
                         <b>Have intercourse with Super model Near 5 star hotels in Goa</b>
                         <p>Hello friends, my name is Angle and I look like a supermodel. But I work as an escort here in Goa. Since I am new in this field our agency offers 30% discount on my service. But I make sure you won't feel lonely with me. </p>
                         <div class="long-profile-action">
@@ -133,10 +133,10 @@ include './profiles-card.php'; ?>
                 <div class="long-profile-card">
                     <span class="top-add"><?=$top ?> Super Top</span>
                     <div class="long-profile-img">
-                    <a href="<?= get_url() ?>vagator-escorts"><img src="<?= $cdn_url ?>goa-profiles/most-awaiting-shemale-in-goa.webp" width="100%" height="100%" alt="most awaiting shemale in goa" loading="lazy"></a>
+                    <a href="<?= get_url() ?>vagator-escorts/"><img src="<?= $cdn_url ?>goa-profiles/most-awaiting-shemale-in-goa.webp" width="100%" height="100%" alt="most awaiting shemale in goa" loading="lazy"></a>
                     </div>
                     <div class="long-profile-detail">
-                    <a href="<?= get_url() ?>vagator-escorts"><strong>Komal</strong></a><br>
+                    <a href="<?= get_url() ?>vagator-escorts/"><strong>Komal</strong></a><br>
                         <b>Get relaxed with our A rated shemale escorts with all sex toys</b>
                         <p>Hello everyone from this side, Komal here, I provide quality and genuine services to or women who want someone to tend to their sexual needs. I belong to LGBTQ group working as an escort to please my clients. </p>
                         <div class="long-profile-action">
@@ -151,10 +151,10 @@ include './profiles-card.php'; ?>
                 <div class="long-profile-card">
                     <span class="add"><?=$top ?> Top</span>
                     <div class="long-profile-img">
-                    <a href="<?= get_url() ?>ponda-escorts"><img src="<?= $cdn_url ?>goa-profiles/6.webp" width="100%" height="100%" alt="HouseWife Escorts Goa" loading="lazy"></a>
+                    <a href="<?= get_url() ?>ponda-escorts/"><img src="<?= $cdn_url ?>goa-profiles/6.webp" width="100%" height="100%" alt="HouseWife Escorts Goa" loading="lazy"></a>
                     </div>
                     <div class="long-profile-detail">
-                    <a href="<?= get_url() ?>ponda-escorts"><strong>Sandhya</strong></a><br>
+                    <a href="<?= get_url() ?>ponda-escorts/"><strong>Sandhya</strong></a><br>
                         <b>Elite escort Sandhya at your location at cheap prices</b>
                         <p>Hi Love, Sandhya is here to satisfy you with the sexiest body in Goa. If you are looking for a model that can relieve your stress and make you feel relaxed. Then I am a perfect fit for you. As I understand the needs of my customers very well.</p>
                         <div class="long-profile-action">
