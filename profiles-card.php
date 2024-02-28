@@ -24,7 +24,7 @@ $noindex = '<meta name="robots" content="index, follow, max-snippet:-1, max-vide
   "name": "Goa call girls",
   "alternateName": "call girls in goa",
   "url": "https://goa.callgirlsinlucknow.in",
-  "logo": ""
+  "logo": "'.$cdn_url .'goa-profiles/Raman-Escort-Service.png"
 }
 </script>
     ';
