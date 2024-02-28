@@ -34,7 +34,7 @@ ReWriteRule ^sanguem-escorts([/]?)$ pages/sanguem-escorts.php [NC,L]
 ReWriteRule ^siolim-escorts([/]?)$ pages/siolim-escorts.php [NC,L]
 ReWriteRule ^tiswadi-escorts([/]?)$ pages/tiswadi-escorts.php [NC,L]
 ReWriteRule ^vagator-escorts([/]?)$ pages/vagator-escorts.php [NC,L]
-ReWriteRule ^vasco-da-gama-escorts([/]?)$ pages/vasco-da-gama-escorts.php [NC,L]
+ReWriteRule ^vasco-da-gama-escorts([/]?)$ pages/vasco-da-gama.php [NC,L]
 
 
 
