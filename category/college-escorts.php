@@ -52,7 +52,7 @@ include '../profiles-card.php'; ?>
                     </div>
                 </div>
 
-                <p>The choice is entirely yours as to how and where you want to begin this enjoyable journey. They are available at all times for gatherings and&nbsp;<a href="https://www.goa.callgirlsinlucknow.in/">Goa Escorts</a>&nbsp;meetings, providing a great way to have fun in the sand.</p>
+                <p>The choice is entirely yours as to how and where you want to begin this enjoyable journey. They are available at all times for gatherings and&nbsp;<a href="https://goa.callgirlsinlucknow.in/">Goa Escorts</a>&nbsp;meetings, providing a great way to have fun in the sand.</p>
 
                 <h3 class="third-heading"><strong>Make your night memorable with Our college escorts in Goa</strong></h3>
 

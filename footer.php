@@ -200,7 +200,7 @@
                         <li>
                             <div style="width: 100px;height:auto">
                                 <div class="elementor-widget-container">
-                                    <a href="https://www.dmca.com/Protection/Status.aspx?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82&amp;refurl=https://www.callgirlsinlucknow.in/call-girls-in-goa/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82" alt="DMCA.com Protection Status" width="100%"></a>                                    
+                                    <a href="https://www.dmca.com/Protection/Status.aspx?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82&amp;refurl=https://callgirlsinlucknow.in/call-girls-in-goa/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82" alt="DMCA.com Protection Status" width="100%"></a>                                    
                                 </div>
                             </div>
                         </li>
