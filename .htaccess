@@ -4,7 +4,7 @@ Options -Indexes
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-RewriteCond %{HTTP_HOST} ^www\.goa.callgirlsinlucknow.in [NC]
+RewriteCond %{HTTP_HOST} ^www\.goa\.callgirlsinlucknow\.in [NC]
 RewriteRule ^(.*)$ https://goa.callgirlsinlucknow.in/$1 [L,R=301]
 
 ReWriteRule ^$ home.php [NC,L]
