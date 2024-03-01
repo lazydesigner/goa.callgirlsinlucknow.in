@@ -185,13 +185,13 @@
         <div class="footer-col">
             <strong>Quick Links</strong>
             <ul>
-                <li><a href="https://www.callgirlsinlucknow.in/reviews/">Reviews</a></li>
-                <li><a href="https://www.callgirlsinlucknow.in/gallery/">Gallery</a></li>
-                <li><a href="https://www.callgirlsinlucknow.in/dmca/">DMCA</a></li>
-                <li><a href="https://www.callgirlsinlucknow.in/contact-us/">Contact Us</a></li>
-                <li><a href="https://www.callgirlsinlucknow.in/disclaimer/">Disclaimer</a></li>
-                <li><a href="https://www.callgirlsinlucknow.in/privacy-policy/">Privacy Policy</a></li>
-                <li><a href="https://www.callgirlsinlucknow.in/terms-and-conditions/">Terms And Conditions</a></li>
+                <li><a href="https://callgirlsinlucknow.in/reviews/">Reviews</a></li>
+                <li><a href="https://callgirlsinlucknow.in/gallery/">Gallery</a></li>
+                <li><a href="https://callgirlsinlucknow.in/dmca/">DMCA</a></li>
+                <li><a href="https://callgirlsinlucknow.in/contact-us/">Contact Us</a></li>
+                <li><a href="https://callgirlsinlucknow.in/disclaimer/">Disclaimer</a></li>
+                <li><a href="https://callgirlsinlucknow.in/privacy-policy/">Privacy Policy</a></li>
+                <li><a href="https://callgirlsinlucknow.in/terms-and-conditions/">Terms And Conditions</a></li>
                 <li>
                     <ul style="display: flex;gap:3%;padding:0;align-items:center;justify-content: center; flex-wrap: wrap;">
                         <li>
