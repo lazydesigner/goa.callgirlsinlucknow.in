@@ -16,6 +16,7 @@ $noindex = '<meta name="robots" content="index, follow, max-snippet:-1, max-vide
     <link rel="icon" type="image/png" sizes="32x32" href="'.$cdn_url.'goa-profiles/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="'.$cdn_url.'goa-profiles/favicon-16x16.png">
     <meta name="google-site-verification" content="g7n53rJPidKQfc3JBRFIxjlTriw4BLySnen5-AMsHrk" />
+    <meta name="google-site-verification" content="aDy9A--pTBetXOmAgw00GWipX9HCEdbqc4k-R0ZEogg" />
 
     <script type="application/ld+json">
 {
