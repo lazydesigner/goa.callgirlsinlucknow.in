@@ -216,6 +216,7 @@
         <div class="footer-col">
             <strong>Partner</strong>
             <ul>
+                <li><a href="https://callgirlsinlucknow.in/">Lucknow</a></li>
                 <li><a href="https://udaipur.callgirlsinlucknow.in/">Udaipur</a></li>
                 <li><a href="https://callgirlsinlucknow.in/escort-service-in-dehradun/">Dehradun</a></li>
                 <li><a href="https://callgirlsinlucknow.in/call-girls-in-mussoorie/">Mussoorie</a></li>
