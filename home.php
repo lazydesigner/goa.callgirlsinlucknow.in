@@ -14,18 +14,18 @@ include './profiles-card.php'; ?>
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/header.css?v=1" async>
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/home.css?v=1" async>
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/footer.css?v=1" defer>
-    <title>Call girls in Goa | Goa call girls | Call girl in Goa | 6396680676</title>
+    <title>Call girls in Goa | 6396680676 | Call girl in Goa | Goa call girls</title>
     <!-- <title>6396680676 | Goa Escorts Service @Rs.3500 -Call Girls in Goa</title> -->
     <meta name="description" content="We deliver call girls in Goa within 40 minutes. We provide genuine call girls in Goa within your budget and enjoy Goa escorts with cash payment.">
     <!-- <meta name="description" content="We deliver call girls in Goa within 40 minutes. Raman Goa Escorts Service provide genuine girls within your budget and deals in Cash payment."> -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Call girls in Goa | Goa call girls | Call girl in Goa | 6396680676" />
+    <meta property="og:title" content="Call girls in Goa | 6396680676 | Call girl in Goa | Goa call girls" />
     <meta property="og:description" content="We deliver call girls in Goa within 40 minutes. We provide genuine call girls in Goa within your budget and enjoy Goa escorts with cash payment." />
     <meta property="og:url" content="<?= get_url() ?>" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Call girls in Goa | Goa call girls | Call girl in Goa | 6396680676" />
+    <meta name="twitter:title" content="Call girls in Goa | 6396680676 | Call girl in Goa | Goa call girls" />
     <meta name="twitter:description" content="We deliver call girls in Goa within 40 minutes. We provide genuine call girls in Goa within your budget and enjoy Goa escorts with cash payment." />
     <link rel="canonical" href="<?= get_url() ?>" />
     <style>
